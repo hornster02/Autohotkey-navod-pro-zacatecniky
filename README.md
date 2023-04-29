@@ -23,3 +23,6 @@ AHK soubor v archivu se dá otevřít v poznámkovém bloku ( nebo pokud je Auto
 -ovládání myši klávesnicí ( vypnout numerickou klávesnici ) - pohyb včetně šikmého (1235), levé+prostřední+pravé tlačítko včetně možnosti Drag and drop a dvojkliku (789), kolečko dolu+nahoru (46), pohyb kurzoru do tří určených pozic (0), 4-té tlačítko myši (.). Snadná úprava rychlosti+akcelerace+scrollingu ( změnou hodnot v kódu )
 
 *malý postřeh - pokud je ve Windows zapnutý UAC, tak zřejmě dojde k zásadnímu omezení aplikace tím, že se bude spouštět s nižšími právy (elevation medium), čímž bude (jakýkoli) skript fungovat jenom někde. Přes program "Winaero Tweaker" by mělo jít UAC opravdu vypnout a tím pádem užívat "elevation high"
+
+-download
+https://github.com/hornster02/Autohotkey-navod-pro-zacatecniky/raw/main/info.rar
